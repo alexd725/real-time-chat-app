@@ -6,7 +6,7 @@
 - Login/register (i.e., auth) functionality with protected routes
 - Group chats
 - Uploading files (e.g., images)
-- Responsive
+- Responsive 
 - Offline/online real-time indicators
 - Read/unseen message status
 
